@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 	helloowedq
-func() {
+dasdsaasdasdsadsaasdfunc() {
 fdsfdfhdasellfasfo!dsfd!!
 fmdsast.pfrintlasnfasdsad("Hello")
 }
