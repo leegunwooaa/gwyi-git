@@ -1,8 +1,8 @@
 package main
 
 import "fmt"
-
+	helloowedq
 func() {
-hello!!!
-fmt.println("Hello")
+fdsfdfhdasellfasfo!dsfd!!
+fmdsast.pfrintlasnfasdsad("Hello")
 }
